@@ -1,0 +1,15 @@
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Application\bin\Debug\net9.0\MagicSignal.Modules.Accounts.Application.deps.json
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Application\bin\Debug\net9.0\MagicSignal.Modules.Accounts.Application.dll
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Application\bin\Debug\net9.0\MagicSignal.Modules.Accounts.Application.pdb
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Application\bin\Debug\net9.0\MagicSignal.Modules.Accounts.Domain.dll
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Application\bin\Debug\net9.0\MagicSignal.Modules.Accounts.Domain.pdb
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Application\obj\Debug\net9.0\MagicSignal.Modules.Accounts.Application.csproj.AssemblyReference.cache
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Application\obj\Debug\net9.0\MagicSignal.Modules.Accounts.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Application\obj\Debug\net9.0\MagicSignal.Modules.Accounts.Application.AssemblyInfoInputs.cache
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Application\obj\Debug\net9.0\MagicSignal.Modules.Accounts.Application.AssemblyInfo.cs
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Application\obj\Debug\net9.0\MagicSignal.Modules.Accounts.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Application\obj\Debug\net9.0\MagicSig.D0EF2479.Up2Date
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Application\obj\Debug\net9.0\MagicSignal.Modules.Accounts.Application.dll
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Application\obj\Debug\net9.0\refint\MagicSignal.Modules.Accounts.Application.dll
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Application\obj\Debug\net9.0\MagicSignal.Modules.Accounts.Application.pdb
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Application\obj\Debug\net9.0\ref\MagicSignal.Modules.Accounts.Application.dll

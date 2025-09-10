@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MagicSignal.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MagicSignal.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MagicSignal.Infrastructure.dll": {}
+        }
+      },
+      "MagicSignal.Domain/1.0.0": {
+        "runtime": {
+          "MagicSignal.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MagicSignal.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MagicSignal.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

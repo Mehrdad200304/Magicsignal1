@@ -1,0 +1,11 @@
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Domain\bin\Debug\net9.0\MagicSignal.Modules.Accounts.Domain.deps.json
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Domain\bin\Debug\net9.0\MagicSignal.Modules.Accounts.Domain.dll
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Domain\bin\Debug\net9.0\MagicSignal.Modules.Accounts.Domain.pdb
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Domain\obj\Debug\net9.0\MagicSignal.Modules.Accounts.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Domain\obj\Debug\net9.0\MagicSignal.Modules.Accounts.Domain.AssemblyInfoInputs.cache
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Domain\obj\Debug\net9.0\MagicSignal.Modules.Accounts.Domain.AssemblyInfo.cs
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Domain\obj\Debug\net9.0\MagicSignal.Modules.Accounts.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Domain\obj\Debug\net9.0\MagicSignal.Modules.Accounts.Domain.dll
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Domain\obj\Debug\net9.0\refint\MagicSignal.Modules.Accounts.Domain.dll
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Domain\obj\Debug\net9.0\MagicSignal.Modules.Accounts.Domain.pdb
+C:\Users\Mehrdad\MagicSignal\src\Modules\Accounts\MagicSignal.Modules.Accounts.Domain\obj\Debug\net9.0\ref\MagicSignal.Modules.Accounts.Domain.dll

@@ -1,0 +1,11 @@
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Domain\bin\Debug\net9.0\MagicSignal.Domain.deps.json
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Domain\bin\Debug\net9.0\MagicSignal.Domain.dll
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Domain\bin\Debug\net9.0\MagicSignal.Domain.pdb
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Domain\obj\Debug\net9.0\MagicSignal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Domain\obj\Debug\net9.0\MagicSignal.Domain.AssemblyInfoInputs.cache
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Domain\obj\Debug\net9.0\MagicSignal.Domain.AssemblyInfo.cs
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Domain\obj\Debug\net9.0\MagicSignal.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Domain\obj\Debug\net9.0\MagicSignal.Domain.dll
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Domain\obj\Debug\net9.0\refint\MagicSignal.Domain.dll
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Domain\obj\Debug\net9.0\MagicSignal.Domain.pdb
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Domain\obj\Debug\net9.0\ref\MagicSignal.Domain.dll

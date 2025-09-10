@@ -1,0 +1,15 @@
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Infrastructure\bin\Debug\net9.0\MagicSignal.Infrastructure.deps.json
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Infrastructure\bin\Debug\net9.0\MagicSignal.Infrastructure.dll
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Infrastructure\bin\Debug\net9.0\MagicSignal.Infrastructure.pdb
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Infrastructure\bin\Debug\net9.0\MagicSignal.Domain.dll
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Infrastructure\bin\Debug\net9.0\MagicSignal.Domain.pdb
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Infrastructure\obj\Debug\net9.0\MagicSignal.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Infrastructure\obj\Debug\net9.0\MagicSignal.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Infrastructure\obj\Debug\net9.0\MagicSignal.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Infrastructure\obj\Debug\net9.0\MagicSignal.Infrastructure.AssemblyInfo.cs
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Infrastructure\obj\Debug\net9.0\MagicSignal.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Infrastructure\obj\Debug\net9.0\MagicSig.F1445EB1.Up2Date
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Infrastructure\obj\Debug\net9.0\MagicSignal.Infrastructure.dll
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Infrastructure\obj\Debug\net9.0\refint\MagicSignal.Infrastructure.dll
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Infrastructure\obj\Debug\net9.0\MagicSignal.Infrastructure.pdb
+C:\Users\Mehrdad\MagicSignal\src\MagicSignal.Infrastructure\obj\Debug\net9.0\ref\MagicSignal.Infrastructure.dll
