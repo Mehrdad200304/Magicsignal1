@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace MagicSignal.Modules.Accounts.Domain.Entities
 {
@@ -19,6 +20,7 @@ namespace MagicSignal.Modules.Accounts.Domain.Entities
         public bool IsActive { get; set; } = true;
 
         // Navigation property - یک Category می‌تونه چندتا Article داشته باشه
+        [JsonIgnore] // ← این خط اضافه شد
         public virtual ICollection<Article> Articles { get; set; } = new List<Article>();
     }
 }

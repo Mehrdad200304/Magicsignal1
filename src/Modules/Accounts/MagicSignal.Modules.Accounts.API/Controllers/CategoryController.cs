@@ -4,7 +4,7 @@ using MagicSignal.Modules.Accounts.Application.Common;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
 
-namespace MagicSignal.Modules.Accounts.API.Controllers
+namespace MagicSignal.API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

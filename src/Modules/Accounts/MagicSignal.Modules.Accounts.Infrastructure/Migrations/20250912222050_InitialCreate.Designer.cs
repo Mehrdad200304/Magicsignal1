@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MagicSignal.Modules.Accounts.Infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250910083840_InitialCreate")]
+    [Migration("20250912222050_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
